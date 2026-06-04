@@ -4,10 +4,11 @@
     {
       "url": "https://www.nutriclub.co.id/",
       "strategy": "mobile",
-      "performance": 71,
+      "performance": 59,
       "accessibility": 84,
-      "best_practices": 92,
-      "seo": 100
+      "best_practices": 88,
+      "seo": 100,
+      "retry_attempts": 2
     }
   ]
 }
