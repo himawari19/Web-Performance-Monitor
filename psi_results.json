@@ -7,7 +7,8 @@
       "performance": 68,
       "accessibility": 84,
       "best_practices": 92,
-      "seo": 92
+      "seo": 100,
+      "retry_attempts": 2
     }
   ]
 }
