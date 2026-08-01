@@ -2606,5 +2606,14 @@
     "best_practices": 92,
     "seo": 100,
     "run_at_utc": "2026-07-31T23:52:29Z"
+  },
+  {
+    "url": "https://www.nutriclub.co.id",
+    "strategy": "mobile",
+    "performance": 57,
+    "accessibility": 84,
+    "best_practices": 92,
+    "seo": 100,
+    "run_at_utc": "2026-08-01T23:46:54Z"
   }
 ]
