@@ -3332,5 +3332,15 @@
     "best_practices": 92,
     "seo": 100,
     "run_at_utc": "2026-10-21T01:09:08Z"
+  },
+  {
+    "url": "https://www.nutriclub.co.id",
+    "strategy": "mobile",
+    "performance": 0,
+    "accessibility": 0,
+    "best_practices": 0,
+    "seo": 0,
+    "error": "PSI time budget exceeded (~55 min): 400 Client Error: Bad Request for url: https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fwww.nutriclub.co.id%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&locale=en&key=AIzaSyChswPUzfXHMQCkeAcgejy5vbHq1Vt0zjE",
+    "run_at_utc": "2026-10-22T02:02:10Z"
   }
 ]
